@@ -1,3 +1,2 @@
 - I worked on [Stack Wallet](https://github.com/cypherstack/stack_wallet), where I added [Nano](https://github.com/cypherstack/stack_wallet/pull/544), [Tezos](https://github.com/cypherstack/stack_wallet/pull/591), [Stellar](https://github.com/cypherstack/stack_wallet/pull/615), [Solana](https://github.com/cypherstack/stack_wallet/pull/816) and [Cardano](https://github.com/cypherstack/stack_wallet/pull/995)
-- I am currently working on [Saketo](https://github.com/monumexyz/saketo), **the first Rust-based mobile Monero wallet**
 - Payments can be made to: `dethe@monero.builders` (OpenAlias) or `88Y8RjUVEJ7dsRe1Mo4CCPAXit4uRxjsC3w6eh855Ky2ZV93dYbGsLuXns6vVpmPDZgcQSUhNBrHgAf7QpvwXga44y22W8d`
